@@ -1,3 +1,10 @@
+/*
+Luke Marushack
+Built: 27 Dec 2020
+21 Game : main.cpp
+Implementation of traditional card game, 21.
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
